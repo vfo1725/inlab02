@@ -18,7 +18,7 @@ def draw_square_rec(size, depth):
 
     :param size: indicates how big the initial square the user wants
     :param depth: int that represents the total number of levels that the user wants
-    :return: None
+    :return: None.
     """
 
     # base case to stop once the final depth is reached
